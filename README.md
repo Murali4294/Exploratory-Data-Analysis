@@ -1,6 +1,28 @@
-# Exploratory-Data-Analysis
-#1 what is EDA: eda is data exploration technique to understand the various aspects of the data
+Exploratory Data Analysis (EDA) — Key Points
+1.Understand the Dataset
+Overview of dataset size (rows, columns)
+Description of features (numerical, categorical, target variable)
 
-#2 objective of eda: it is basically used to filter the data from redundacnies.
+2.Summary Statistics
+Mean, median, mode, standard deviation for numerical features
+Distribution of categorical variables (value counts)
 
-#3 steps involved in eda : it follows a systematic set of explore the data in the most efficient way possible 1)understand the data 2)clean the data 3) analysis of relationship between variables
+3.Missing Data Analysis
+Identify missing values per column
+Percentage of missing data
+Plan for handling missing data (imputation, removal)
+
+4.Data Visualization
+Histograms, boxplots for numerical feature distributions
+Bar charts, count plots for categorical features
+Heatmap of feature correlations
+
+5.Feature Relationships
+Correlation matrix to check linear relationships
+Scatter plots or pair plots for feature interactions
+
+6.Feature Engineering Insights
+Identify features needing transformation or encoding
+Detect potential new features based on data patterns
+
+
