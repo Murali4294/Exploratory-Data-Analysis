@@ -12,10 +12,21 @@ Identify missing values per column
 Percentage of missing data
 Plan for handling missing data (imputation, removal)
 
-4.Data Visualization
-Histograms, boxplots for numerical feature distributions
-Bar charts, count plots for categorical features
-Heatmap of feature correlations
+4.Common Seaborn Plots for EDA
+
+Pairplot
+Shows pairwise relationships between numerical features.
+
+Relplot
+Flexible function for scatter plots and line plots.
+Good for showing relationships between two variables.
+
+Distplot (deprecated in latest seaborn versions; use histplot or displot)
+Shows distribution of a numerical variable.
+
+Catplot
+Combines several categorical plots (box, violin, bar, strip, swarm).
+Great for comparing distributions across categories
 
 5.Feature Relationships
 Correlation matrix to check linear relationships
