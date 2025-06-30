@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # #1 what is EDA: eda is data exploration technique to understand the various aspects of the data
 # 
 # #2 objective of eda: it is basically used to filter the data from redundacnies.
